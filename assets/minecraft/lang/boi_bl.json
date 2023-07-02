@@ -8,5 +8,15 @@
   "item.minecraft.bow": "Trombone",
   "item.minecraft.arrow": "Eigth Note",
   "item.minecraft.cookie": "Donut",
-  "item.minecraft.rabbit_stew": "Noodle"
+  "item.minecraft.rabbit_stew": "Noodle",
+  "item.minecraft.music_disc_5.desc": "Takahashi Shin'ya - Railway",
+  "item.minecraft.music_disc_11.desc": "Samuel Hazo - Arabesque",
+  "item.minecraft.music_disc_13.desc": "Craig Skeffington - Emergency Stopping Only",
+  "item.minecraft.music_disc_mellohi.desc": "Fukushima Hirokazu - Fantasy on Saitara Bushi",
+  "item.minecraft.music_disc_pigstep.desc": "Sir Walford Davies - Royal Air Force March Past",
+  "item.minecraft.music_disc_relic.desc": "Hanazawa Kana - Ren'ai Circulation",
+  "item.minecraft.music_disc_stal.desc": "Chicago - 25 or 6 to 4",
+  "item.minecraft.music_disc_strad.desc": "Bob Mintzer - Computer",
+  "item.minecraft.music_disc_wait.desc": "Duke Ellington - Such Sweet Thunder",
+  "item.minecraft.music_disc_ward.desc": "Nat Adderly - Work Song"
 }
